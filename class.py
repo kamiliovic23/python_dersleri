@@ -1,2 +1,2 @@
-class Deneme:
+class Test:
     pass
